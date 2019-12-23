@@ -3,8 +3,6 @@ title: "Linear Regression R NB"
 
 Author: Keiana Dunn
 
-Date: 3/16/19
-
 Objective: To better understand how Machine Learning algorithms work, write linear regression algorithm that is able to print coefficients and accuracy metrics, plot actual versus predicted response variables, and compare R^2 results of algorithm to R^2 resluts using lm() and predict(). 
 
 In order to have linear regression model there should be a correlation between the data and the data should be linear. 
